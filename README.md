@@ -2,7 +2,7 @@
 
 Packaged releases of Farside, the app for using your Mac from any browser.
 
-- Website and manual: https://farside-mac.vercel.app
+- Website and manual: https://farside-six.vercel.app
 - Download the newest version: https://github.com/edgetr/farside-releases/releases/latest/download/Farside.zip
 
 This repository holds only the packaged app and the feed its updater reads.
